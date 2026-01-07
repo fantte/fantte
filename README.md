@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**fantte/fantte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Polish beginner programmer on his way to get the first IT job
 
-Here are some ideas to get you started:
+Before I started coding I spent 4 months to learning about linux, networking and computer science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've tested many distros, but my favorite for its simplicity and reliability it's just Linux Mint/Ubuntu (cinnamon 🫶)
+
+I don't like use commands that I don't know what they actually do I need to know how things work ✅
+
+I've never participated in bootcamps and have not studied any IT-related subject, I am self-taught
+
+Also before starting coding, I did research on the subject, now it's time to supplement it with practice
+
+#### Fun facts:
+
+* I've been a truck driver (Poland, Germany, Czech Republic)
+* I love listening creepypastas
+* Coffee addicted
+* I'm trying to learn how to do pull-ups
+</br>
+See you 😎
+</br>
+
+<img width="1918" height="1078" alt="Screenshot from 2026-01-07 09-22-20" src="https://github.com/user-attachments/assets/3900d8fb-2369-47c5-ae66-ac324c7de734" />

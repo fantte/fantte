@@ -8,6 +8,8 @@ I've tested many distros, but my favorite for its simplicity and reliability it'
 
 I don't like use commands that I don't know what they actually do I need to know how things work
 
+I decided on a technology stack: React (Typescript) / Spring Boot / PostgreSQL
+
 I've never participated in bootcamps and have not studied any IT-related subject, I am self-taught
 
 Also before starting coding, I did research on the subject, now it's time to supplement it with practice

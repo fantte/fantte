@@ -24,4 +24,4 @@ Also before starting coding, I did research on the subject, now it's time to sup
 See you 😎
 </br>
 
-<img width="1918" height="1078" alt="Screenshot from 2026-01-07 09-22-20" src="https://github.com/user-attachments/assets/3900d8fb-2369-47c5-ae66-ac324c7de734" />
+<img width="1919" height="1079" alt="Screenshot from 2026-01-18 17-58-51" src="https://github.com/user-attachments/assets/125d4a62-2751-4087-b595-ee0d8185d8b4" />

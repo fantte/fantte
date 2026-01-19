@@ -20,8 +20,10 @@ Also before starting coding, I did research on the subject, now it's time to sup
 * I love listening creepypastas
 * Coffee addicted
 * I'm trying to learn how to do pull-ups
+
 </br>
 See you 😎
 </br>
 
-<img width="1919" height="1079" alt="Screenshot from 2026-01-18 21-07-20" src="https://github.com/user-attachments/assets/f211bcb3-b3d7-4d2c-858c-c1c68ab87779" />
+<img width="1919" height="1079" alt="Screenshot from 2026-01-19 07-45-13" src="https://github.com/user-attachments/assets/32d5204c-6195-4afa-a028-e609a066b770" />
+

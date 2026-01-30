@@ -8,18 +8,15 @@ I've tested many distros, but my favorite for its simplicity and reliability it'
 
 I don't like use commands that I don't know what they actually do I need to know how things work
 
-I decided on a technology stack: React (Typescript) / Spring Boot / PostgreSQL
+I decided to improve my skills only in the backend: Spring Boot 🍃
 
 I've never participated in bootcamps and have not studied any IT-related subject, I am self-taught
-
-Also before starting coding, I did research on the subject, now it's time to supplement it with practice
 
 #### Fun facts:
 
 * I've been a truck driver (Poland, Germany, Czech Republic)
 * I love listening creepypastas
 * Coffee addicted
-* I'm trying to learn how to do pull-ups
 
 </br>
 See you 😎
